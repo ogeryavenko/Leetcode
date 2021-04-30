@@ -13,7 +13,7 @@ public class SolutionTest
     public void example1()
     {
        int answer = solution.myAtoi("42");
-       int expected = 42;
+       int expected = 42;cd 
        assertEquals(expected, answer);
     }
 
