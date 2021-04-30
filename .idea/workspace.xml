@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eb26f6c4-1542-437b-a460-5902eb001420" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/.idea/Medium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/Add_Two_Numbers/src/main/java/com/ogeryavenko/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/src/test/java/com/geryavenko/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/src/test/java/com/geryavenko/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/target/classes/com/geryavenko/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/target/classes/com/geryavenko/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/target/test-classes/com/geryavenko/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/target/test-classes/com/geryavenko/SolutionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Palindrome_Number/src/test/java/com/ogeryavenko/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Palindrome_Number/src/test/java/com/ogeryavenko/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Palindrome_Number/target/classes/com/ogeryavenko/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Palindrome_Number/target/classes/com/ogeryavenko/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Palindrome_Number/target/test-classes/com/ogeryavenko/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Palindrome_Number/target/test-classes/com/ogeryavenko/SolutionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Reverse_Integer/src/test/java/com/ogeryavenko/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Reverse_Integer/src/test/java/com/ogeryavenko/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Reverse_Integer/target/classes/com/ogeryavenko/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Reverse_Integer/target/classes/com/ogeryavenko/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/Reverse_Integer/target/test-classes/com/ogeryavenko/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Reverse_Integer/target/test-classes/com/ogeryavenko/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/.idea/Medium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/.idea/Add_Two_Numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/src/main/java/com/ogeryavenko/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/Add_Two_Numbers/src/test/java/com/ogeryavenko/SolutionTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,5 +71,17 @@
       <updated>1619782931722</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
