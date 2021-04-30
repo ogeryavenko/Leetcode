@@ -6,19 +6,35 @@ import org.junit.*;
 
 public class SolutionTest
 {
+    Solution solution = new Solution();
     @Test
-    public void reverseRomanTree()
+    public void example1()
     {
-        Solution numbers = new Solution();
-        int answer = numbers.romanToInt("III");
+        int answer = solution.romanToInt("III");
         int expanted = 3;
         assertEquals(expanted, answer);
     }
+
     @Test
-    public void reverseRoman()
+    public void example2()
     {
-        Solution numbers = new Solution();
-        int answer = numbers.romanToInt("MCMXCIV");
+        int answer = solution.romanToInt("IX");
+        int expanted = 9;
+        assertEquals(expanted, answer);
+    }
+
+    @Test
+    public void example3()
+    {
+        int answer = solution.romanToInt("LVIII");
+        int expanted = 58;
+        assertEquals(expanted, answer);
+    }
+
+    @Test
+    public void example4()
+    {
+        int answer = solution.romanToInt("MCMXCIV");
         int expanted = 1994;
         assertEquals(expanted, answer);
     }

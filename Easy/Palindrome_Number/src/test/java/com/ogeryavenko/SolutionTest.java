@@ -6,19 +6,19 @@ import org.junit.*;
 
 public class SolutionTest
 {
+    Solution solution = new Solution();
     @Test
-    public void exampleTrue()
+    public void example1()
     {
-        Solution numbers = new Solution();
-        boolean answer = numbers.isPalindrome(121);
+
+        boolean answer = solution.isPalindrome(121);
         boolean expanted = true;
         assertEquals(expanted, answer);
     }
     @Test
-    public void exampleFalse()
+    public void example2()
     {
-        Solution numbers = new Solution();
-        boolean answer = numbers.isPalindrome(-121);
+        boolean answer = solution.isPalindrome(-121);
         boolean expanted = false;
         assertEquals(expanted, answer);
     }

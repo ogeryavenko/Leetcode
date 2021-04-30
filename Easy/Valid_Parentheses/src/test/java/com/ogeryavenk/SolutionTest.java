@@ -6,27 +6,25 @@ import org.junit.*;
 
 public class SolutionTest
 {
+    Solution solution = new Solution();
 
     @Test
-    public void Example1()
+    public void example1()
     {
-        Solution num = new Solution();
-        boolean answer = num.isValid("()");
+        boolean answer = solution.isValid("()");
         assertEquals(true, answer);
     }
     @Test
-    public void Example2()
+    public void example2()
     {
-        Solution num = new Solution();
-        boolean answer = num.isValid("()[]()");
+        boolean answer = solution.isValid("()[]()");
         assertEquals(true, answer);
     }
 
     @Test
-    public void Example5()
+    public void example5()
     {
-        Solution num = new Solution();
-        boolean answer = num.isValid("{[]}");
+        boolean answer = solution.isValid("{[]}");
         assertEquals(true, answer);
     }
 }

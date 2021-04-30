@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb26f6c4-1542-437b-a460-5902eb001420" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Medium/.idea/Medium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/Add_Two_Numbers/src/main/java/com/ogeryavenko/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/src/test/java/com/geryavenko/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/src/test/java/com/geryavenko/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/target/classes/com/geryavenko/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/target/classes/com/geryavenko/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/target/test-classes/com/geryavenko/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Longest_Common_Prefix/target/test-classes/com/geryavenko/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Palindrome_Number/src/test/java/com/ogeryavenko/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Palindrome_Number/src/test/java/com/ogeryavenko/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Palindrome_Number/target/classes/com/ogeryavenko/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Palindrome_Number/target/classes/com/ogeryavenko/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Palindrome_Number/target/test-classes/com/ogeryavenko/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Palindrome_Number/target/test-classes/com/ogeryavenko/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Reverse_Integer/src/test/java/com/ogeryavenko/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Reverse_Integer/src/test/java/com/ogeryavenko/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Reverse_Integer/target/classes/com/ogeryavenko/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Reverse_Integer/target/classes/com/ogeryavenko/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/Reverse_Integer/target/test-classes/com/ogeryavenko/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/Reverse_Integer/target/test-classes/com/ogeryavenko/SolutionTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rt6F4id5s8iSagPkfhg3krM37A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb26f6c4-1542-437b-a460-5902eb001420" name="Default Changelist" comment="" />
+      <created>1619782931722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619782931722</updated>
+    </task>
+    <servers />
+  </component>
+</project>
